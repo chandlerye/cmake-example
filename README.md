@@ -1,7 +1,7 @@
 # cmake-example
  example of using cmake
 
- .
+> .
 ├── CMakeCache.txt
 ├── CMakeFiles
 │   ├── 3.16.3
@@ -60,3 +60,4 @@
     ├── Makefile
     ├── cmake_install.cmake
     └── libmyadd.a
+
