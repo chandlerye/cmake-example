@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/workye/WORK/work-temp/cpp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/f_add.dir/main.cpp.o -c /home/workye/WORK/work-temp/cpp/main.cpp",
+  "file": "/home/workye/WORK/work-temp/cpp/main.cpp"
+},
+{
+  "directory": "/home/workye/WORK/work-temp/cpp/build/src",
+  "command": "/usr/bin/g++   -I/home/workye/WORK/work-temp/cpp/include  -g   -o CMakeFiles/myadd.dir/myadd.cpp.o -c /home/workye/WORK/work-temp/cpp/src/myadd.cpp",
+  "file": "/home/workye/WORK/work-temp/cpp/src/myadd.cpp"
+}
+]

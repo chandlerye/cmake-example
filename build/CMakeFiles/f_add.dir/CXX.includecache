@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/workye/WORK/work-temp/cpp/include/myadd.h
+iostream
+-
+
+/home/workye/WORK/work-temp/cpp/main.cpp
+iostream
+-
+include/myadd.h
+/home/workye/WORK/work-temp/cpp/include/myadd.h
+

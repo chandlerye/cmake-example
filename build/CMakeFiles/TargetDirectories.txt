@@ -1,0 +1,6 @@
+/home/workye/WORK/work-temp/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/workye/WORK/work-temp/cpp/build/CMakeFiles/edit_cache.dir
+/home/workye/WORK/work-temp/cpp/build/CMakeFiles/f_add.dir
+/home/workye/WORK/work-temp/cpp/build/src/CMakeFiles/rebuild_cache.dir
+/home/workye/WORK/work-temp/cpp/build/src/CMakeFiles/edit_cache.dir
+/home/workye/WORK/work-temp/cpp/build/src/CMakeFiles/myadd.dir
